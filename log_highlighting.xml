@@ -12,5 +12,7 @@
     </parsingPatterns>
     <settingsVersion>4</settingsVersion>
     <lastAddedDefaultFormat>3</lastAddedDefaultFormat>
+    <errorStripeModel>normal</errorStripeModel>
+    <readonlySizeThreshold>1000000</readonlySizeThreshold>
   </component>
 </application>
