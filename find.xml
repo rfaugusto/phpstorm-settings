@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../database/migrations/2020_02_14_112600_create_beneficiaries_table.php'" />
-    <option name="defaultScopeName" value="File '.../database/migrations/2020_02_14_112600_create_beneficiaries_table.php'" />
+    <option name="customScope" value="File '.../app/Actions/Beneficiary/UpdateBeneficiary.php'" />
+    <option name="defaultScopeName" value="File '.../app/Actions/Beneficiary/UpdateBeneficiary.php'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../database/migrations/2020_02_14_112600_create_beneficiaries_table.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Actions/Beneficiary/UpdateBeneficiary.php'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
