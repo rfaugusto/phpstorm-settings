@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../resources/views/management/beneficiaries/show_beneficiaries.blade.php'" />
-    <option name="defaultScopeName" value="File '.../resources/views/management/beneficiaries/show_beneficiaries.blade.php'" />
+    <option name="customScope" value="File '.../app/Models/Model.php'" />
+    <option name="defaultScopeName" value="File '.../app/Models/Model.php'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../resources/views/management/beneficiaries/show_beneficiaries.blade.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Models/Model.php'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
