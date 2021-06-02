@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/Actions/Requisition/TreatRequisition.php'" />
-    <option name="defaultScopeName" value="File '.../app/Actions/Requisition/TreatRequisition.php'" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Actions/Requisition/TreatRequisition.php'" />
+    <option name="customScope" value="File '.../app/Jobs/GenerateServiceProviderPaymentJob.php'" />
+    <option name="defaultScopeName" value="File '.../app/Jobs/GenerateServiceProviderPaymentJob.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Jobs/GenerateServiceProviderPaymentJob.php'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
