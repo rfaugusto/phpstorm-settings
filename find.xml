@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/Actions/CashierEntry/DeleteCashierEntry.php'" />
-    <option name="defaultScopeName" value="File '.../app/Actions/CashierEntry/DeleteCashierEntry.php'" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Actions/CashierEntry/DeleteCashierEntry.php'" />
+    <option name="customScope" value="File '.../app/Actions/CashierEntry/UpdateCashierEntry.php'" />
+    <option name="defaultScopeName" value="File '.../app/Actions/CashierEntry/UpdateCashierEntry.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Actions/CashierEntry/UpdateCashierEntry.php'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
