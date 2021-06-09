@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../routes/web.php'" />
-    <option name="defaultScopeName" value="File '.../routes/web.php'" />
-    <option name="SEARCH_SCOPE" value="File '.../routes/web.php'" />
+    <option name="customScope" value="File '.../database/seeds/RolesAndPermissionsSeeder.php'" />
+    <option name="defaultScopeName" value="File '.../database/seeds/RolesAndPermissionsSeeder.php'" />
+    <option name="SEARCH_SCOPE" value="File '.../database/seeds/RolesAndPermissionsSeeder.php'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
