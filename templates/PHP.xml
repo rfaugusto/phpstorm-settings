@@ -11,4 +11,44 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
+  <template name="pubfb" value="public function $NAME$($PARAMETERS$): bool&#10;{&#10;    $END$&#10;}" description="public function returning bool" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+      <option name="PHP Trait Member" value="true" />
+    </context>
+  </template>
+  <template name="pubfa" value="public function $NAME$($PARAMETERS$): array&#10;{&#10;    $END$&#10;}" description="public function returning array" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+      <option name="PHP Trait Member" value="true" />
+    </context>
+  </template>
+  <template name="pubfi" value="public function $NAME$($PARAMETERS$): int&#10;{&#10;    $END$&#10;}" description="public function returning int" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+      <option name="PHP Trait Member" value="true" />
+    </context>
+  </template>
+  <template name="pubfs" value="public function $NAME$($PARAMETERS$): string&#10;{&#10;    $END$&#10;}" description="public function returning string" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+      <option name="PHP Trait Member" value="true" />
+    </context>
+  </template>
+  <template name="pubff" value="public function $NAME$($PARAMETERS$): float&#10;{&#10;    $END$&#10;}" description="public function returning float" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+      <option name="PHP Trait Member" value="true" />
+    </context>
+  </template>
 </templateSet>
